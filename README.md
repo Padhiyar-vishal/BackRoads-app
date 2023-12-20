@@ -1,2 +1,2 @@
-# BackRoads-app
-Converting html app into react app.
+# Backroads-app
+Converting a html app to react app.
